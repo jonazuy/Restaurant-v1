@@ -1,0 +1,22 @@
+.card-title{
+    color: aliceblue;
+    text-align: center;
+    border: solid 3px;
+    border-color: rgb(16, 104, 50);
+    background-color: rgb(16, 104, 50);
+
+}
+
+.card-text{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-img-top{
+    margin : 6px
+}
+
+.card{
+
+margin: 10px
+}
